@@ -1,2 +1,3 @@
 # ZYM_website
-# This is part of learing the HTML/CSS
+
+# This is the part of learing HTML/CSS
