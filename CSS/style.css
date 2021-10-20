@@ -84,3 +84,8 @@ a {
   background-color: #ee4343;
   color: black;
 }
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
